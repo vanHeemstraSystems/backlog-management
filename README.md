@@ -1,2 +1,3 @@
-# backlog-management
-Backlog Management
+# Backlog Management
+
+- [References](./REFERENCES.md)
